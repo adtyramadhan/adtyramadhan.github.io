@@ -1,21 +1,27 @@
-@media all and (max-width: 1000px){
-  .main-tambahan-2{
-    margin-top: -30px;
-  }
-  .main-tambahan-2 h1{
-    margin-bottom: 80px;
-  }
-  .main-tambahan-1{
-    height: 1800px;
-  }
-  .place{
-    margin-left: 250px;
-    margin-bottom: 30px
-  }
+@media (max-width: 1000px){
+
+.main-utama {
+  width: 100%;
 }
 
-@media all and (max-width: 670px){
-  .main-tambahan-2{
-    
-  }
+.main-utama .container-1 {
+  width: 100%;
+}
+
+.main-utama form {
+  width: 100%;
+}
+
+.main-tambahan-1 {
+  width: 100%;
+  height: auto;
+  display: inline-block;
+}
+
+.main-tambahan-1 .container-mt1{
+  width: 100%;
+}
+
+.main-tambahan-1 .place{
+  margin-left: 200px;
 }
