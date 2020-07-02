@@ -8,7 +8,6 @@
 }
 
 .header {
-	width: 100%;
 	height: 50px;
 	z-index: 9999;
 	position: fixed;
@@ -112,7 +111,7 @@ input:hover {
 .place {
 	float: left;
   	width: 300px;
-  	margin-right: 40px;
+  	margin-right: 55px;
   	margin-left: 60px;
    	position: relative;
   	transition: .3s;
