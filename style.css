@@ -112,7 +112,7 @@ input:hover {
 .place {
 	float: left;
   	width: 300px;
-  	margin-right: 55px;
+  	margin-right: 40px;
   	margin-left: 60px;
    	position: relative;
   	transition: .3s;
