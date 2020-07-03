@@ -109,11 +109,15 @@ input:hover {
   font: 30px/50px 'opensans-regular', 'Arial Narrow', arial, sans-serif;
 }
 
+.places {
+	width: 100%;
+}
+
 .place {
 	float: left;
   	width: 300px;
   	margin-right: 55px;
-  	margin-left: 60px;
+  	margin-left: 65px;
 	margin-bottom: 25px;
    	position: relative;
   	transition: .3s;
