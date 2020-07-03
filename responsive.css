@@ -27,33 +27,3 @@
 }
 
 }
-
-@media (max-width: 670px){
-
-.main-utama {
-  width: 100%;
-}
-
-.main-utama .container-1 {
-  width: 100%;
-}
-
-.main-utama form {
-  width: 100%;
-}
-
-.main-tambahan-1 {
-  width: 100%;
-  height: auto;
-  display: inline-block;
-}
-
-.main-tambahan-1 .container-mt1{
-  width: 100%;
-}
-
-.main-tambahan-1 .place{
-  margin-left: 136px;
-}
-
-}
